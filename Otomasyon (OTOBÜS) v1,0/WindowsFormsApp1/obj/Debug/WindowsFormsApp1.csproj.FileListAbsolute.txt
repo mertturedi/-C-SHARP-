@@ -1,0 +1,94 @@
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıKayıtForm.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SeçimEkranıForm.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KayıtSilmeForm.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıGirişForm.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YüklenmForm.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YöneticiPaneliForm.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MüşteriBilgi.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ödeme.resources
+C:\Users\MERT\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletBilgi.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletBilgi.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MüşteriBilgi.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıGirişForm.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SeçimEkranıForm.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YöneticiPaneliForm.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıKayıtForm.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KayıtSilmeForm.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YüklenmForm.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ödeme.resources
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mert\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullaniciPanel.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullaniciPanel.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletBilgi.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MüşteriBilgi.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıGirişForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SeçimEkranıForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YöneticiPaneliForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıKayıtForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KayıtSilmeForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YüklenmForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ödeme.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SifreEkrani.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletSatForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletTakip.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletTakip.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BiletSatForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SifreEkrani.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullaniciPanel.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıGirişForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SeçimEkranıForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YöneticiPaneliForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KullanıcıKayıtForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KayıtSilmeForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.YüklenmForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OtobüsTakipForm.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AraçSil.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Biletİptal.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Aracguncelleme.resources
+C:\Users\Mert\Desktop\Otomasyon (OTOBÜS) v1,0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yardımdestek.resources
